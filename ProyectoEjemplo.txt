@@ -1,1 +1,5 @@
 print("Hola Mundo")
+a=str(input())
+
+print(a)
+Modificado por PJLeon08
